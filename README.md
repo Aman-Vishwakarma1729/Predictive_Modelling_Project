@@ -12,7 +12,7 @@ The goal of this project is to build a linear regression model to predict the 'u
 
 ### Files
 - `Project_5.ipynb`: Jupyter Notebook containing the code for solving Problem 1.
-- `comp-activ.csv`: Dataset used for the analysis.
+- `compactiv.csv`: Dataset used for the analysis.
 - `Report.pdf`: A report summarizing the findings and insights from the linear regression analysis.
 
 ## Problem 2: Logistic Regression, LDA, and CART
@@ -24,16 +24,16 @@ The dataset contains information on 1473 married females from a Contraceptive Pr
 The objective of this project is to predict whether these women use a contraceptive method of choice based on their demographic and socio-economic characteristics. Three different algorithms, Logistic Regression, Linear Discriminant Analysis (LDA), and Classification and Regression Trees (CART), are used for modeling.
 
 ### Files
-- `logistic_lda_cart.ipynb`: Jupyter Notebook containing the code for solving Problem 2.
-- `contraceptive_survey.csv`: Dataset used for the analysis.
-- `business_report.pdf`: A report summarizing the findings and insights from the logistic regression, LDA, and CART analysis.
+- `Project_5.ipynb`: Jupyter Notebook containing the code for solving Problem 2.
+- `Contraceptive_method_used.csv`: Dataset used for the analysis.
+- `Report.pdf`: A report summarizing the findings and insights from the logistic regression, LDA, and CART analysis.
 
 ## Usage
 You can run the Jupyter notebooks to reproduce the analyses for both problems. The datasets are included for reference. The business reports provide detailed explanations of the results and insights.
 
 ## How to Run
 1. Clone this repository to your local machine.
-2. Open the respective Jupyter Notebook (`linear_regression.ipynb` or `logistic_lda_cart.ipynb`) using Jupyter Notebook or Jupyter Lab.
+2. Open the respective Jupyter Notebook (`Project_5`) using Jupyter Notebook or Jupyter Lab.
 3. Follow the instructions in the notebooks to run the code and reproduce the analyses.
 
 ## Dependencies
