@@ -11,9 +11,9 @@ The `comp-activ` dataset is a collection of computer system activity measures. I
 The goal of this project is to build a linear regression model to predict the 'usr' (portion of time (%) that CPUs run in user mode) and to understand how each attribute affects the system to be in 'usr' mode.
 
 ### Files
-- `linear_regression.ipynb`: Jupyter Notebook containing the code for solving Problem 1.
+- `Project_5.ipynb`: Jupyter Notebook containing the code for solving Problem 1.
 - `comp-activ.csv`: Dataset used for the analysis.
-- `business_report.pdf`: A report summarizing the findings and insights from the linear regression analysis.
+- `Report.pdf`: A report summarizing the findings and insights from the linear regression analysis.
 
 ## Problem 2: Logistic Regression, LDA, and CART
 
